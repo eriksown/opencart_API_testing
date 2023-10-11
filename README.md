@@ -7,3 +7,4 @@ create tests on Creating, Viewing, Updating, and Deleting orders in the e-commer
 Thes application is downloaded and installed to the local machine and run using different approach:
 1.) Using PostMan
 2.) Using Command line
+3.) Shared API link: https://api.postman.com/collections/30135598-e6e7f5e6-13bd-463f-8346-bc9edc8d4826?access_key=PMAT-01HCBZDQ5FM3K2DK4XEXPEWPJ4
